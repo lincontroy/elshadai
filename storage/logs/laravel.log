@@ -1,0 +1,24 @@
+[2022-03-13 01:29:47] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:192)
+[stacktrace]
+#0 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(118): Illuminate\\Log\\LogManager->resolve(NULL)
+#1 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(98): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(547): Illuminate\\Log\\LogManager->driver()
+#3 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(124): Illuminate\\Log\\LogManager->error('syntax error, u...', Array)
+#4 C:\\xamppp\\htdocs\\alizona\\app\\Exceptions\\Handler.php(37): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalThrowableError))
+#5 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(408): App\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalThrowableError))
+#6 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->reportException(Object(Symfony\\Component\\Debug\\Exception\\FatalThrowableError))
+#7 C:\\xamppp\\htdocs\\alizona\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#8 C:\\xamppp\\htdocs\\alizona\\server.php(21): require_once('C:\\\\xamppp\\\\htdoc...')
+#9 {main}
+"} 
+[2022-03-13 01:29:47] laravel.ERROR: syntax error, unexpected 'Jackiedo' (T_STRING), expecting ']' {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): syntax error, unexpected 'Jackiedo' (T_STRING), expecting ']' at C:\\xamppp\\htdocs\\alizona\\config\\app.php:166)
+[stacktrace]
+#0 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#1 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(219): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(156): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(140): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 C:\\xamppp\\htdocs\\alizona\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#5 C:\\xamppp\\htdocs\\alizona\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#6 C:\\xamppp\\htdocs\\alizona\\server.php(21): require_once('C:\\\\xamppp\\\\htdoc...')
+#7 {main}
+"} 

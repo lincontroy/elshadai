@@ -1,0 +1,625 @@
+GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  335
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   015e4d6a-ab49-4a4e-afda-edb119807f89
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"23000.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#12",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  335
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   0b21d869-563d-4811-a333-d1a228cf2f1d
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"23000.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#12",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  335
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   c64bd9b9-f84d-447c-8425-6f967d0eac81
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"23000.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  335
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   5ee95923-89d8-4591-818e-9ec48437fc5f
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"23000.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   14a6627d-9b59-4aec-b685-de6f6e94b259
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   04b4ce66-7de2-49a7-824a-42e70bf3d226
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   07072fc5-48a8-4a48-8339-02b70eb123da
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   7e3d814c-e452-4bb8-9886-b4a6c4f0765f
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   530cad5c-978a-480e-b4b8-180c86ac006a
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   4bf8863b-e0de-41b0-9f4b-f551dc464101
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   4cbac517-4a66-4919-b31a-a20236e71a4a
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   5415c088-b3e8-462b-a1ff-ce9a22b7641a
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   0f9f22da-53dd-451e-9da4-1eedadd5fa9c
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   911c7169-7fbd-4a0f-845b-32ef2ec15d88
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   f5c57202-959b-4f30-ad0c-879751ca1d31
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#27",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   61abbee6-878d-4263-8823-7a2427be1e5e
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#28",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   5c550fe9-0ab3-43c1-afc3-7f46e6305391
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   4c6c2d96-88e5-4071-a436-877cb9360cbf
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   8084fb5c-8419-453b-98f7-db446a6fe131
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   3c8ca6e7-f258-4cdb-ab92-ea65a551552e
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   c491dbe3-0713-4cf6-a0d4-1dacc1495763
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   cd716895-9391-408e-abc7-18e025e98810
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   8e74df89-3702-4f28-bf11-113e671ec8fd
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#29",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   4017931e-126c-4313-b659-7f58e7230482
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#30",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}GET /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   90ee23ba-ad15-461e-a980-bfc216d92901
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#31",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}POST /api/v1/response HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  333
+Content-Type:    application/json
+Host:            127.0.0.1:8000
+Postman-Token:   fc4d3e0e-ea5c-4fc4-b866-04f01cec9d7e
+User-Agent:      PostmanRuntime/7.26.8
+
+{
+  "TransactionType":"Pay Bill",
+  "TransID":"PBD7MAJUGF",
+  "TransTime":"20210213003607",
+  "TransAmount":"450.00",
+  "BusinessShortCode":"4070303",
+  "BillRefNumber":"fp#31",
+  "InvoiceNumber":"0",
+  "ThirdPartyTransID":"0",
+  "MSISDN":"254720895177",
+  "FirstName":"John",
+  "MiddleName":"Doe",
+  "LastName":"Mike"
+}
